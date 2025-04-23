@@ -78,11 +78,11 @@ https://github.com/tkmoya/md-todo.git
 
 ## デモ
 
-https://github.com/tkmoya/techcorp.git
+https://nextjs-company-portal.vercel.app
 
 ## リポジトリ
 
-https://github.com/tkmoya/ec-app.git
+https://github.com/tkmoya/techcorp.git
 
 ## 概要
 
