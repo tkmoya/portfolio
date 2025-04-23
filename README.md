@@ -45,7 +45,7 @@ https://github.com/tkmoya/ec-app.git
 
 ## デモ
 
-https://nextjs-cloudflare-todo.pages.dev/
+https://nextjs-cloudflare-todo.pages.dev
 
 ## リポジトリ
 
